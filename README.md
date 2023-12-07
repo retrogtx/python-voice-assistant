@@ -1,5 +1,4 @@
-# PythonAssistant
-## Python AI Assistant
+### Python AI Assistant
 
 This repository contains the code for a Python-based AI assistant. This assistant can perform various tasks, including:
 
